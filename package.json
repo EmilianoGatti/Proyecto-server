@@ -1,0 +1,22 @@
+{
+  "name": "proyect_heroes",
+  "version": "1.0.0",
+  "description": "proyecto de express heroes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilianoGatti/Proyecto-server.git"
+  },
+  "author": "Emiliano Gatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilianoGatti/Proyecto-server/issues"
+  },
+  "homepage": "https://github.com/EmilianoGatti/Proyecto-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
